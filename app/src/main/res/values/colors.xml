@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgDark">#20262E</color>
+    <color name="bodyDark">#2F3845</color>
+    <color name="bodyLight">#596270</color>
+    <color name="coinDark">#3B4149</color>
+    <color name="textWhite">#EAEDF4</color>
+    <color name="textGray">#949AA6</color>
+    <color name="profit">#3EDA90</color>
+    <color name="loss">#F46154</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>

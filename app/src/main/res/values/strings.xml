@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Portfolio</string>
+    <string name="cro">3635</string>
+    <string name="one_inch">8104</string>
+    <string name="algo">4030</string>
+    <string-array name="urls">
+        <item>@string/cro</item>
+        <item>@string/one_inch</item>
+    </string-array>
+</resources>
