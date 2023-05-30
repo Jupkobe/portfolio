@@ -1,4 +1,6 @@
 # portfolio_the_app
 Portfolio is an app to track your crypto portfolio. 
 
-This was my first big project. Main idea was to getting data from internet and serving them to track coins on the app. I managed to create an UI, list and store the coin names and amounts. Last part was to getting data from the internet with APIs. But the thing I didn't know was that API systems are not for free to use. So my project is not working properly but has finished.  
+![Concept](https://github.com/Jupkobe/portfolio_the_app/assets/84783072/fd58ec04-0c2d-463d-b674-8e0cc6e88ba3)
+
+Objective is getting data with API and serving it to track coins status on the app. The app functions properly but does not update coins, because couldn't afford an API service.
